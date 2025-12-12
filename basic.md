@@ -1,4 +1,4 @@
-# 1. Chemistry (Code 5070 / 0620)
+# 1. Chemistry 
 
 **A. Atomic Structure**
 * **Proton Number:** Identity of the element (never changes).
@@ -26,7 +26,7 @@
 
 ---
 
-# 2. Physics (Code 5054 / 0625)
+# 2. Physics
 
 **A. General Physics Formulas**
 * **Speed:** $$v = \frac{d}{t}$$ (Distance / Time)
@@ -50,7 +50,7 @@
 
 ---
 
-# 3. Biology (Code 5090 / 0610)
+# 3. Biology 
 
 **A. Cell Structure**
 * **Nucleus:** Contains genetic material (DNA), controls cell activities.
